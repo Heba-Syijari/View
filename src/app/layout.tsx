@@ -22,13 +22,13 @@ export const metadata: Metadata = {
     title: "My Portfolio",
     description:
       "Software Engineer, always looking for new challenges and knowledge, I have the ability to quickly learn new stuff. I code in JavaScript, especially ReactJS.",
-    url: "https://hadeel13ibrahim-portfolio.vercel.app/",
+    url: "https://heba-syijari2.vercel.app/",
     images: [
       {
         url: "/images/my-portfolio.jpg",
         width: 1200,
         height: 630,
-        href: "https://hadeel13ibrahim-portfolio.vercel.app/images/my-portfolio.jpg",
+        href: "https://heba-syijari2.vercel.app/images/my-portfolio.jpg",
         alt: "Open Graph image",
       },
     ],
