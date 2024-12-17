@@ -61,45 +61,45 @@ export {
 // Projects
 
 //MultiProject
-import MultiPr from "/public/images/projects/MultiProject/MultiProject.png";
-import MultiPr1 from "/public/images/projects/MultiProject/MultiProject1.png";
-import MultiPr2 from "/public/images/projects/MultiProject/MultiProject2.png";
-import MultiPr3 from "/public/images/projects/MultiProject/MultiProject3.png";
-import MultiPr4 from "/public/images/projects/MultiProject/MultiProject4.png";
+import MultiPr from "/public/images/Projects/MultiProject/MultiProject.png";
+import MultiPr1 from "/public/images/Projects/MultiProject/MultiProject1.png";
+import MultiPr2 from "/public/images/Projects/MultiProject/MultiProject2.png";
+import MultiPr3 from "/public/images/Projects/MultiProject/MultiProject3.png";
+import MultiPr4 from "/public/images/Projects/MultiProject/MultiProject4.png";
 //ideaPortal
-import Portal from "/public/images/projects/portal/portal.png";
-import Portal1 from "/public/images/projects/portal/portal1.jpg";
-import Portal2 from "/public/images/projects/portal/portal2.jpg";
-import Portal3 from "/public/images/projects/portal/portal3.jpg";
-import Portal4 from "/public/images/projects/portal/portal4.jpg";
-import Portal5 from "/public/images/projects/portal/portal5.jpg";
+import Portal from "/public/images/Projects/portal/portal.png";
+import Portal1 from "/public/images/Projects/portal/portal1.jpg";
+import Portal2 from "/public/images/Projects/portal/portal2.jpg";
+import Portal3 from "/public/images/Projects/portal/portal3.jpg";
+import Portal4 from "/public/images/Projects/portal/portal4.jpg";
+import Portal5 from "/public/images/Projects/portal/portal5.jpg";
 //CodeAI
-import CodeAI from "/public/images/projects/CodeAI/codeAI.png";
-import CodeAI1 from "/public/images/projects/CodeAI/codeAI1.jpg";
-import CodeAI2 from "/public/images/projects/CodeAI/codeAI2.jpg";
-import CodeAI3 from "/public/images/projects/CodeAI/codeAI3.jpg";
-import CodeAI4 from "/public/images/projects/CodeAI/codeAI4.jpg";
+import CodeAI from "/public/images/Projects/CodeAI/codeAI.png";
+import CodeAI1 from "/public/images/Projects/CodeAI/codeAI1.jpg";
+import CodeAI2 from "/public/images/Projects/CodeAI/codeAI2.jpg";
+import CodeAI3 from "/public/images/Projects/CodeAI/codeAI3.jpg";
+import CodeAI4 from "/public/images/Projects/CodeAI/codeAI4.jpg";
 //Portfolio
-import Portfolio from "/public/images/projects/portfolio/portfolio.png";
-import Portfolio1 from "/public/images/projects/portfolio/portfolio1.png";
-import Portfolio2 from "/public/images/projects/portfolio/portfolio2.jpg";
-import Portfolio3 from "/public/images/projects/portfolio/portfolio3.jpg";
-import Portfolio4 from "/public/images/projects/portfolio/portfolio4.jpg";
+import Portfolio from "/public/images/Projects/portfolio/portfolio.png";
+import Portfolio1 from "/public/images/Projects/portfolio/portfolio1.png";
+import Portfolio2 from "/public/images/Projects/portfolio/portfolio2.jpg";
+import Portfolio3 from "/public/images/Projects/portfolio/portfolio3.jpg";
+import Portfolio4 from "/public/images/Projects/portfolio/portfolio4.jpg";
 //Baby
-import Baby from "/public/images/projects/Baby/baby.png";
-import Baby1 from "/public/images/projects/Baby/baby1.jpg";
-import Baby2 from "/public/images/projects/Baby/baby2.jpg";
-import Baby3 from "/public/images/projects/Baby/baby3.jpg";
-import Baby4 from "/public/images/projects/Baby/baby4.jpg";
-import Baby5 from "/public/images/projects/Baby/baby5.jpg";
-import Baby6 from "/public/images/projects/Baby/baby6.jpg";
-import Baby7 from "/public/images/projects/Baby/baby7.jpg";
+import Baby from "/public/images/Projects/Baby/baby.png";
+import Baby1 from "/public/images/Projects/Baby/baby1.jpg";
+import Baby2 from "/public/images/Projects/Baby/baby2.jpg";
+import Baby3 from "/public/images/Projects/Baby/baby3.jpg";
+import Baby4 from "/public/images/Projects/Baby/baby4.jpg";
+import Baby5 from "/public/images/Projects/Baby/baby5.jpg";
+import Baby6 from "/public/images/Projects/Baby/baby6.jpg";
+import Baby7 from "/public/images/Projects/Baby/baby7.jpg";
 //Self-driving-car
-import Car from "/public/images/projects/Self-driving-car/car.png";
-import Car1 from "/public/images/projects/Self-driving-car/car1.jpg";
-import Car2 from "/public/images/projects/Self-driving-car/car2.jpg";
-import Car3 from "/public/images/projects/Self-driving-car/car3.jpg";
-import Car4 from "/public/images/projects/Self-driving-car/car4.jpg";
+import Car from "/public/images/Projects/Self-driving-car/car.png";
+import Car1 from "/public/images/Projects/Self-driving-car/car1.jpg";
+import Car2 from "/public/images/Projects/Self-driving-car/car2.jpg";
+import Car3 from "/public/images/Projects/Self-driving-car/car3.jpg";
+import Car4 from "/public/images/Projects/Self-driving-car/car4.jpg";
 export {
   MultiPr,
   MultiPr1,
