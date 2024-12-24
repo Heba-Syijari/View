@@ -19,17 +19,17 @@ export const BtnList: IBtnList[] = [
   },
   // {
   //     label: "Gitlab",
-  //     link: "https://gitlab.com/Hadee13/",
+  //     link: "https://gitlab.com/Heba-Sy/",
   //     icon: "gitlab",
   //     newTab: true,
   // },
   {
     label: "Resume",
-    link: "/resume Heba.pdf",
+    link: "/Heba Syijari.pdf",
     icon: "resume",
     newTab: true,
   },
 ];
 export const NAME = "Heba Syijari";
 export const NUMBER_OF_CLIENTS = "+2";
-export const YEARS_OF_EXPERIENCE = "+3";
+export const YEARS_OF_EXPERIENCE = "+2.5";
