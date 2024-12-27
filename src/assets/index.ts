@@ -1,8 +1,8 @@
 // Backgrounds
-import bgHome from "/public/images/background/bg-home.png";
-import bgAbout from "/public/images/background/bg-about.png";
-import bgContact from "/public/images/background/bg-contact.png";
-import bgProjects from "/public/images/background/bg-projects.png";
+import bgHome from "/public/images/background/bg-home1.jpg";
+import bgAbout from "/public/images/background/bg-about1.jpg";
+import bgContact from "/public/images/background/bg-contact1.jpg";
+import bgProjects from "/public/images/background/bg-projects1.jpg";
 export { bgHome, bgAbout, bgContact, bgProjects };
 // Skills
 import Html from "@/assets/icons/html.svg";
@@ -61,32 +61,32 @@ export {
 // Projects
 
 //MultiProject
-import MultiPr from "/public/images/Projects/MultiProject/MultiProject.png";
+import MultiPr from "/public/images/Projects/MultiProject/MultiProject.jpg";
 import MultiPr1 from "/public/images/Projects/MultiProject/MultiProject1.png";
 import MultiPr2 from "/public/images/Projects/MultiProject/MultiProject2.png";
 import MultiPr3 from "/public/images/Projects/MultiProject/MultiProject3.png";
 import MultiPr4 from "/public/images/Projects/MultiProject/MultiProject4.png";
 //ideaPortal
-import Portal from "/public/images/Projects/portal/portal.png";
+import Portal from "/public/images/Projects/portal/portal.jpg";
 import Portal1 from "/public/images/Projects/portal/portal1.jpg";
 import Portal2 from "/public/images/Projects/portal/portal2.jpg";
 import Portal3 from "/public/images/Projects/portal/portal3.jpg";
 import Portal4 from "/public/images/Projects/portal/portal4.jpg";
 import Portal5 from "/public/images/Projects/portal/portal5.jpg";
 //CodeAI
-import CodeAI from "/public/images/Projects/CodeAI/codeAI.png";
+import CodeAI from "/public/images/Projects/CodeAI/codeAI.jpg";
 import CodeAI1 from "/public/images/Projects/CodeAI/codeAI1.jpg";
 import CodeAI2 from "/public/images/Projects/CodeAI/codeAI2.jpg";
 import CodeAI3 from "/public/images/Projects/CodeAI/codeAI3.jpg";
 import CodeAI4 from "/public/images/Projects/CodeAI/codeAI4.jpg";
 //Portfolio
-import Portfolio from "/public/images/Projects/portfolio/portfolio.png";
+import Portfolio from "/public/images/Projects/portfolio/portfolio.jpg";
 import Portfolio1 from "/public/images/Projects/portfolio/portfolio1.png";
 import Portfolio2 from "/public/images/Projects/portfolio/portfolio2.jpg";
 import Portfolio3 from "/public/images/Projects/portfolio/portfolio3.jpg";
 import Portfolio4 from "/public/images/Projects/portfolio/portfolio4.jpg";
 //Baby
-import Baby from "/public/images/Projects/Baby/baby.png";
+import Baby from "/public/images/Projects/Baby/baby.jpg";
 import Baby1 from "/public/images/Projects/Baby/baby1.jpg";
 import Baby2 from "/public/images/Projects/Baby/baby2.jpg";
 import Baby3 from "/public/images/Projects/Baby/baby3.jpg";
@@ -95,7 +95,7 @@ import Baby5 from "/public/images/Projects/Baby/baby5.jpg";
 import Baby6 from "/public/images/Projects/Baby/baby6.jpg";
 import Baby7 from "/public/images/Projects/Baby/baby7.jpg";
 //Self-driving-car
-import Car from "/public/images/Projects/Self-driving-car/car.png";
+import Car from "/public/images/Projects/Self-driving-car/car.jpg";
 import Car1 from "/public/images/Projects/Self-driving-car/car1.jpg";
 import Car2 from "/public/images/Projects/Self-driving-car/car2.jpg";
 import Car3 from "/public/images/Projects/Self-driving-car/car3.jpg";
