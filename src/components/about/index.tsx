@@ -18,14 +18,12 @@ const AboutDetails = () => {
             Architect of Enchantment
           </h2>
           <AboutElement classes="font-light text-xs sm:text-sm md:text-base">
-            Software Engineer with three years of experience in both company
-            settings and freelance work. Specializing in front-end development
-            using ReactJS and Next.js, I focus on building large-scale web
-            applications with clean, efficient code. Recently graduated in
-            Informatics Engineering from Aleppo University, with a
-            specialization in Artificial Intelligence. I have a foundational
-            understanding of back-end technologies such as Express.js and
-            MongoDB.
+            Experienced Software Engineer specializing in front-end development
+            using ReactJS. Skilled in building large-scale web applications with
+            clean, efficient code. Recently graduated in Informatics Engineering
+            from Aleppo University, with a specialization in Artificial
+            Intelligence. I have a foundational understanding of back-end
+            technologies like NodeJs.
           </AboutElement>
         </ItemLayout>
         {/* <ItemLayout

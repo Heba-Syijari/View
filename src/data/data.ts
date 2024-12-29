@@ -86,7 +86,7 @@ export const projectsData: IProjectData[] = [
   },
   {
     id: 2,
-    images: [Portal],
+    images: [Portal, Portal1, Portal2, Portal3, Portal4, Portal5],
     name: "Idea Portal",
     description: `This application was developed in collaboration with Innovura to create a portal for users to share and engage with various threads, such as ideas, opinions, and complaints. Users can post new threads, view detailed information about existing threads, comment on others’ threads, and vote to express support or agreement.
     _______________
@@ -119,7 +119,7 @@ export const projectsData: IProjectData[] = [
   },
   {
     id: 3,
-    images: [CodeAI],
+    images: [CodeAI, CodeAI1, CodeAI2, CodeAI3, CodeAI4],
     name: "CodeAI",
     description: `Designed and developed a tool that utilizes AI to analyze and evaluate code changes.
     Streamlined the code review process by automating it in a collaborative development environment.
@@ -185,7 +185,7 @@ export const projectsData: IProjectData[] = [
     date: new Date("2023-08"),
     skills: ["React JS", "Redux", "Bootstrap", "JavaScript"],
     links: {
-      demo: "https://drive.google.com",
+      // demo: "https://drive.google.com",
       repo: "https://github.com/Heba-Syijari/Children-Store-FrontEnd",
     },
   },
