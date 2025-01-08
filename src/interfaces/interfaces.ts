@@ -93,6 +93,7 @@ export type SKILLS =
   | "TailwindCSS"
   | "React JS"
   | "Redux"
+  | "Zustand"
   | "Redux toolkit"
   | "API"
   | "Material UI"

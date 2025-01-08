@@ -63,9 +63,65 @@ import {
   Car2,
   Car3,
   Car4,
+  Lyrify,
+  Lyrify1,
+  Lyrify2,
+  Lyrify4,
+  Lyrify5,
+  Lyrify6,
 } from "@/assets";
 // let uuid = self.crypto.randomUUID();
 export const projectsData: IProjectData[] = [
+  {
+    id: 7,
+    images: [Lyrify, Lyrify1, Lyrify2, Lyrify4, Lyrify5, Lyrify6],
+    name: "Lyrify",
+    description: `Lyrify: Comprehensive Music Streaming and Management Platform
+    About Lyrify
+    Lyrify is an innovative music streaming platform designed to offer users a dynamic and interactive listening experience. With advanced features and seamless integration with Spotify, it brings music, collaboration, and analytics together in a single platform.
+
+    Key Features
+
+    🎸 Music Playback: Enjoy your favorite songs with intuitive controls to play, skip, and replay tracks.
+    🔈 Volume Control: Adjust the volume effortlessly using a modern slider interface.
+    🎧 Admin Dashboard: Empower administrators to create and manage albums and songs efficiently.
+    💬 Real-time Chat Integration: Engage in live conversations with friends and music enthusiasts directly within the app.
+    👨🏼‍💼 Online/Offline Status: Know who's available with real-time user status indicators.
+    👀 Live Listening Insights: Discover what other users are listening to in real time for a shared music experience.
+    📊 Analytics Page: View aggregated data to analyze trends, user preferences, and more.
+    🚀 Expanding Capabilities: With continuous development, Lyrify is set to bring even more features in the future.
+    Tech Stack and Dependencies
+    Lyrify's frontend is built with cutting-edge tools and technologies to ensure high performance, scalability, and user satisfaction:
+
+    Framework: React with Vite for fast development and optimized builds.
+    UI Components: Radix UI for accessible and customizable interface elements.
+    State Management: Zustand for efficient state handling.
+    Real-time Features: Socket.IO client for real-time communication.
+    Styling: Tailwind CSS with advanced animation and merging utilities for a sleek design.
+    APIs and Libraries: Axios for API calls, Clerk for authentication, and Lucide for rich icons.
+    TypeScript: Ensuring type safety and scalability throughout the project.
+    Development Tools
+    Lyrify's development process is supported by a robust set of tools:
+
+    Linting and Formatting: ESLint to maintain code quality.
+    Build and Preview: Vite for rapid previews and optimized production builds.
+    Versioning: Semantic versioning for clear and structured updates.
+    Lyrify is designed to redefine how users experience and manage music, providing both listeners and administrators with powerful tools to interact, collaborate, and analyze music trends.`,
+    date: new Date("2025-2"),
+    skills: [
+      "React JS",
+      "TypeScript",
+      "Vite",
+      "Clerk",
+      "Zustand",
+      "Shadcn UI",
+      "TailwindCSS",
+    ],
+    links: {
+      // demo: "https://marketplace.atlassian.com/apps/1221612/multi-project-customfield?hosting=datacenter&tab=overview",
+      repo: "https://github.com/Heba-Syijari/Spotify",
+    },
+  },
   {
     id: 1,
     images: [MultiPr, MultiPr1, MultiPr2, MultiPr3, MultiPr4],
@@ -250,6 +306,10 @@ export const SkillData: ISkill[] = [
     Image: Redux,
   },
   {
+    name: "Zustand",
+    Image: Redux,
+  },
+  {
     name: "React Query",
     Image: reactQuery,
   },
@@ -273,10 +333,10 @@ export const SkillData: ISkill[] = [
   //     name: "NextAuth",
   //     Image: nextAuth,
   //   },
-  //   {
-  //     name: "Clerk",
-  //     Image: clerk,
-  //   },
+  {
+    name: "Clerk",
+    Image: clerk,
+  },
   //   {
   //     name: "Lottie Files",
   //     Image: lottiefiles,

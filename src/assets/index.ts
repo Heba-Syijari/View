@@ -100,6 +100,14 @@ import Car1 from "/public/images/Projects/Self-driving-car/car1.jpg";
 import Car2 from "/public/images/Projects/Self-driving-car/car2.jpg";
 import Car3 from "/public/images/Projects/Self-driving-car/car3.jpg";
 import Car4 from "/public/images/Projects/Self-driving-car/car4.jpg";
+//Lyrify
+import Lyrify from "/public/images/Projects/Lyrify/lyrify.jpg";
+import Lyrify1 from "/public/images/Projects/Lyrify/lyrify1.jpg";
+import Lyrify2 from "/public/images/Projects/Lyrify/lyrify2.jpg";
+import Lyrify4 from "/public/images/Projects/Lyrify/lyrify4.png";
+import Lyrify5 from "/public/images/Projects/Lyrify/lyrify5.jpg";
+import Lyrify6 from "/public/images/Projects/Lyrify/lyrify6.jpg";
+
 export {
   MultiPr,
   MultiPr1,
@@ -135,4 +143,10 @@ export {
   Car2,
   Car3,
   Car4,
+  Lyrify,
+  Lyrify1,
+  Lyrify2,
+  Lyrify4,
+  Lyrify5,
+  Lyrify6,
 };
