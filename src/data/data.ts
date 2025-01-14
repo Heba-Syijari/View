@@ -69,9 +69,63 @@ import {
   Lyrify4,
   Lyrify5,
   Lyrify6,
+  Trendy,
+  Trendy1,
+  Trendy2,
+  Trendy3,
+  Trendy4,
+  Trendy5,
+  Trendy6,
+  Trendy7,
+  Trendy8,
+  Trendy9,
 } from "@/assets";
 // let uuid = self.crypto.randomUUID();
 export const projectsData: IProjectData[] = [
+  {
+    id: 7,
+    images: [
+      Trendy,
+      Trendy1,
+      Trendy2,
+      Trendy3,
+      Trendy4,
+      Trendy5,
+      Trendy6,
+      Trendy7,
+      Trendy8,
+      Trendy9,
+    ],
+    name: "Trendy",
+    description: `E-Commerce Platform
+    A comprehensive e-commerce solution with a modern, responsive frontend. This platform integrates advanced features to ensure a seamless user experience and robust administrative capabilities.
+
+    Key Highlights:
+    Secure Authentication: JWT-based login and signup system.
+    Shopping Essentials: Product and category management, cart functionality, and Stripe-integrated checkout.
+    Admin Dashboard: Tools for managing inventory, monitoring sales, and analyzing performance with Recharts.
+    Promotions: Flexible coupon code system.
+    Enhanced Design: Tailwind CSS for a clean, responsive interface.
+    Performance Boost: Redis caching for faster operations.
+    Frontend Technologies: React, Tailwind CSS, React Hook Form, Axios, Zustand, Framer Motion.
+    Development Environment: Built with Vite for speed and optimized workflows.
+
+    This platform is a scalable, feature-rich foundation for online businesses, combining security, performance, and design excellence.
+    `,
+    date: new Date("2025-2"),
+    skills: [
+      "React JS",
+      "Vite",
+      "Zustand",
+      "TailwindCSS",
+      "Zod",
+      "React Hook Form",
+    ],
+    links: {
+      // demo: "https://marketplace.atlassian.com/apps/1221612/multi-project-customfield?hosting=datacenter&tab=overview",
+      repo: "https://github.com/Heba-Syijari/E-Commerce",
+    },
+  },
   {
     id: 7,
     images: [Lyrify, Lyrify1, Lyrify2, Lyrify4, Lyrify5, Lyrify6],
@@ -107,7 +161,7 @@ export const projectsData: IProjectData[] = [
     Build and Preview: Vite for rapid previews and optimized production builds.
     Versioning: Semantic versioning for clear and structured updates.
     Lyrify is designed to redefine how users experience and manage music, providing both listeners and administrators with powerful tools to interact, collaborate, and analyze music trends.`,
-    date: new Date("2025-2"),
+    date: new Date("2025-1"),
     skills: [
       "React JS",
       "TypeScript",
@@ -313,18 +367,18 @@ export const SkillData: ISkill[] = [
     name: "React Query",
     Image: reactQuery,
   },
-  //   {
-  //     name: "Next JS",
-  //     Image: Next,
-  //   },
+  {
+    name: "Next JS",
+    Image: Next,
+  },
   //   {
   //     name: "Framer Motion",
   //     Image: Framer,
   //   },
-  //   {
-  //     name: "Material UI",
-  //     Image: materialUI,
-  //   },
+  {
+    name: "Material UI",
+    Image: materialUI,
+  },
   //   {
   //     name: "Prisma",
   //     Image: prisma,
@@ -345,18 +399,18 @@ export const SkillData: ISkill[] = [
   //     name: "Swiper.js",
   //     Image: swiper,
   //   },
-  //   {
-  //     name: "React Hook Form",
-  //     Image: reactHookForm,
-  //   },
+  {
+    name: "React Hook Form",
+    Image: reactHookForm,
+  },
   //   {
   //     name: "Formik",
   //     Image: formik,
   //   },
-  //   {
-  //     name: "Zod",
-  //     Image: zod,
-  //   },
+  {
+    name: "Zod",
+    Image: zod,
+  },
   {
     name: "React Router DOM",
     Image: reactRouter,
