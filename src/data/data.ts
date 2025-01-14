@@ -83,7 +83,7 @@ import {
 // let uuid = self.crypto.randomUUID();
 export const projectsData: IProjectData[] = [
   {
-    id: 7,
+    id: 8,
     images: [
       Trendy,
       Trendy1,
