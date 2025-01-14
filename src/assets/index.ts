@@ -107,7 +107,17 @@ import Lyrify2 from "/public/images/Projects/Lyrify/lyrify2.jpg";
 import Lyrify4 from "/public/images/Projects/Lyrify/lyrify4.png";
 import Lyrify5 from "/public/images/Projects/Lyrify/lyrify5.jpg";
 import Lyrify6 from "/public/images/Projects/Lyrify/lyrify6.jpg";
-
+//Trendy
+import Trendy from "/public/images/Projects/Trendy/trendy.jpg";
+import Trendy1 from "/public/images/Projects/Trendy/trendy1.png";
+import Trendy2 from "/public/images/Projects/Trendy/trendy2.jpg";
+import Trendy3 from "/public/images/Projects/Trendy/trendy3.png";
+import Trendy4 from "/public/images/Projects/Trendy/trendy4.png";
+import Trendy5 from "/public/images/Projects/Trendy/trendy5.png";
+import Trendy6 from "/public/images/Projects/Trendy/trendy6.png";
+import Trendy7 from "/public/images/Projects/Trendy/trendy7.png";
+import Trendy8 from "/public/images/Projects/Trendy/trendy8.png";
+import Trendy9 from "/public/images/Projects/Trendy/trendy9.jpg";
 export {
   MultiPr,
   MultiPr1,
@@ -149,4 +159,14 @@ export {
   Lyrify4,
   Lyrify5,
   Lyrify6,
+  Trendy,
+  Trendy1,
+  Trendy2,
+  Trendy3,
+  Trendy4,
+  Trendy5,
+  Trendy6,
+  Trendy7,
+  Trendy8,
+  Trendy9,
 };
