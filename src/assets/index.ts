@@ -118,6 +118,7 @@ import Trendy6 from "/public/images/Projects/Trendy/trendy6.png";
 import Trendy7 from "/public/images/Projects/Trendy/trendy7.png";
 import Trendy8 from "/public/images/Projects/Trendy/trendy8.png";
 import Trendy9 from "/public/images/Projects/Trendy/trendy9.jpg";
+import Trendy10 from "/public/images/Projects/Trendy/trendy10.jpg";
 export {
   MultiPr,
   MultiPr1,
@@ -169,4 +170,5 @@ export {
   Trendy7,
   Trendy8,
   Trendy9,
+  Trendy10,
 };

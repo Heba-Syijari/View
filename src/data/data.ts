@@ -79,6 +79,7 @@ import {
   Trendy7,
   Trendy8,
   Trendy9,
+  Trendy10,
 } from "@/assets";
 // let uuid = self.crypto.randomUUID();
 export const projectsData: IProjectData[] = [
@@ -95,6 +96,7 @@ export const projectsData: IProjectData[] = [
       Trendy7,
       Trendy8,
       Trendy9,
+      Trendy10,
     ],
     name: "Trendy",
     description: `E-Commerce Platform
@@ -122,7 +124,7 @@ export const projectsData: IProjectData[] = [
       "React Hook Form",
     ],
     links: {
-      // demo: "https://marketplace.atlassian.com/apps/1221612/multi-project-customfield?hosting=datacenter&tab=overview",
+      demo: "https://trendy-edbf.onrender.com",
       repo: "https://github.com/Heba-Syijari/E-Commerce",
     },
   },
@@ -172,7 +174,7 @@ export const projectsData: IProjectData[] = [
       "TailwindCSS",
     ],
     links: {
-      // demo: "https://marketplace.atlassian.com/apps/1221612/multi-project-customfield?hosting=datacenter&tab=overview",
+      demo: "https://lyrify-5tpm.onrender.com",
       repo: "https://github.com/Heba-Syijari/Spotify",
     },
   },
