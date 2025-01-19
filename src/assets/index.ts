@@ -30,6 +30,11 @@ import nextAuth from "@/assets/icons/next-auth.png";
 import clerk from "@/assets/icons/clerk.svg";
 import formik from "@/assets/icons/formik.svg";
 import npm from "@/assets/icons/npm.svg";
+import zustand from "@/assets/icons/zustand.png";
+import nodejs from "@/assets/icons/nodejs.svg";
+import mongodb from "@/assets/icons/mongodb.svg";
+import express from "@/assets/icons/express-js.svg";
+import redis from "@/assets/icons/redis.svg";
 // Skills
 export {
   Html,
@@ -57,6 +62,11 @@ export {
   clerk,
   formik,
   npm,
+  zustand,
+  nodejs,
+  mongodb,
+  express,
+  redis,
 };
 // Projects
 

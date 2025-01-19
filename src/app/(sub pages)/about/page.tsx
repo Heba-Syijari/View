@@ -25,7 +25,7 @@ export default function About() {
             Meet the wizard behind this portfolio
           </p>
           <p className="font-light text-foreground text-lg">
-            ReactJS Developer
+            ReactJS Developer | MERN
           </p>
         </div>
       </div>

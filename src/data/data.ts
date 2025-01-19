@@ -11,6 +11,7 @@ import {
   Redux,
   Next,
   Framer,
+  formik,
   reactHookForm,
   materialUI,
   reactQuery,
@@ -23,8 +24,12 @@ import {
   prisma,
   nextAuth,
   clerk,
-  formik,
   npm,
+  zustand,
+  nodejs,
+  mongodb,
+  express,
+  redis,
 } from "@/assets";
 
 // projects
@@ -122,6 +127,10 @@ export const projectsData: IProjectData[] = [
       "TailwindCSS",
       "Zod",
       "React Hook Form",
+      "NodeJS",
+      "ExpressJS",
+      "Mongodb",
+      "Redis",
     ],
     links: {
       demo: "https://trendy-edbf.onrender.com",
@@ -172,6 +181,9 @@ export const projectsData: IProjectData[] = [
       "Zustand",
       "Shadcn UI",
       "TailwindCSS",
+      "NodeJS",
+      "ExpressJS",
+      "Mongodb",
     ],
     links: {
       demo: "https://lyrify-5tpm.onrender.com",
@@ -342,10 +354,6 @@ export const SkillData: ISkill[] = [
     Image: JS,
   },
   {
-    name: "Bootstrap",
-    Image: bootstrap,
-  },
-  {
     name: "TypeScript",
     Image: Typescript,
   },
@@ -363,7 +371,7 @@ export const SkillData: ISkill[] = [
   },
   {
     name: "Zustand",
-    Image: Redux,
+    Image: zustand,
   },
   {
     name: "React Query",
@@ -373,14 +381,26 @@ export const SkillData: ISkill[] = [
     name: "Next JS",
     Image: Next,
   },
-  //   {
-  //     name: "Framer Motion",
-  //     Image: Framer,
-  //   },
+  {
+    name: "Bootstrap",
+    Image: bootstrap,
+  },
   {
     name: "Material UI",
     Image: materialUI,
   },
+  {
+    name: "TailwindCSS",
+    Image: TailwindCss,
+  },
+  {
+    name: "Shadcn UI",
+    Image: shadcnUI,
+  },
+  //   {
+  //     name: "Framer Motion",
+  //     Image: Framer,
+  //   },
   //   {
   //     name: "Prisma",
   //     Image: prisma,
@@ -389,10 +409,10 @@ export const SkillData: ISkill[] = [
   //     name: "NextAuth",
   //     Image: nextAuth,
   //   },
-  {
-    name: "Clerk",
-    Image: clerk,
-  },
+  //   {
+  //     name: "Formik",
+  //     Image: formik,
+  //   },
   //   {
   //     name: "Lottie Files",
   //     Image: lottiefiles,
@@ -402,13 +422,13 @@ export const SkillData: ISkill[] = [
   //     Image: swiper,
   //   },
   {
+    name: "Clerk",
+    Image: clerk,
+  },
+  {
     name: "React Hook Form",
     Image: reactHookForm,
   },
-  //   {
-  //     name: "Formik",
-  //     Image: formik,
-  //   },
   {
     name: "Zod",
     Image: zod,
@@ -417,17 +437,24 @@ export const SkillData: ISkill[] = [
     name: "React Router DOM",
     Image: reactRouter,
   },
-
-  {
-    name: "TailwindCSS",
-    Image: TailwindCss,
-  },
-  {
-    name: "Shadcn UI",
-    Image: shadcnUI,
-  },
   {
     name: "npm",
     Image: npm,
+  },
+  {
+    name: "NodeJS",
+    Image: nodejs,
+  },
+  {
+    name: "Mongodb",
+    Image: mongodb,
+  },
+  {
+    name: "ExpressJS",
+    Image: express,
+  },
+  {
+    name: "Redis",
+    Image: redis,
   },
 ];
