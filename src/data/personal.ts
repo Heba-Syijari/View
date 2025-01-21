@@ -32,4 +32,4 @@ export const BtnList: IBtnList[] = [
 ];
 export const NAME = "Heba Syijari";
 export const NUMBER_OF_CLIENTS = "+2";
-export const YEARS_OF_EXPERIENCE = "+2.5";
+export const YEARS_OF_EXPERIENCE = "+3";
