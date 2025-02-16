@@ -129,6 +129,13 @@ import Trendy7 from "/public/images/Projects/Trendy/trendy7.png";
 import Trendy8 from "/public/images/Projects/Trendy/trendy8.png";
 import Trendy9 from "/public/images/Projects/Trendy/trendy9.jpg";
 import Trendy10 from "/public/images/Projects/Trendy/trendy10.jpg";
+//sadiq
+import Sadiq from "/public/images/Projects/sadiq/sadiq.jpg";
+import Sadiq1 from "/public/images/Projects/sadiq/sadiq1.jpg";
+import Sadiq2 from "/public/images/Projects/sadiq/sadiq2.jpg";
+import Sadiq3 from "/public/images/Projects/sadiq/sadiq3.jpg";
+import Sadiq4 from "/public/images/Projects/sadiq/sadiq4.jpg";
+import Sadiq5 from "/public/images/Projects/sadiq/sadiq5.jpg";
 export {
   MultiPr,
   MultiPr1,
@@ -181,4 +188,10 @@ export {
   Trendy8,
   Trendy9,
   Trendy10,
+  Sadiq,
+  Sadiq1,
+  Sadiq2,
+  Sadiq3,
+  Sadiq4,
+  Sadiq5,
 };

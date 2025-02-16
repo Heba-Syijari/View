@@ -124,6 +124,7 @@ export type SKILLS =
   | "Atlassian Design System"
   | "Forge"
   | "Bitbucket"
+  | "React Native"
   | "Python"
   | "Computer Vision"
   | "Image Processing"

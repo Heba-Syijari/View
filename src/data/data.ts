@@ -85,6 +85,12 @@ import {
   Trendy8,
   Trendy9,
   Trendy10,
+  Sadiq,
+  Sadiq1,
+  Sadiq2,
+  Sadiq3,
+  Sadiq4,
+  Sadiq5,
 } from "@/assets";
 // let uuid = self.crypto.randomUUID();
 export const projectsData: IProjectData[] = [
@@ -135,6 +141,31 @@ export const projectsData: IProjectData[] = [
     links: {
       demo: "https://trendy-edbf.onrender.com",
       repo: "https://github.com/Heba-Syijari/E-Commerce",
+    },
+  },
+  {
+    id: 9,
+    images: [Sadiq, Sadiq1, Sadiq2, Sadiq3, Sadiq4, Sadiq5],
+    name: "Sadiq",
+    description: `Sadiq – Service Discovery & Communication App
+    Tech Stack: React Native (Expo), Firebase, Context API
+    Overview:
+    Sadiq is a mobile application designed to help Syrians easily create, discover, and communicate about services. Built with React Native and Expo, the app delivers a seamless experience with powerful search, real-time messaging, and intuitive UI features.
+    Key Features:
+    ✔ Service Discovery – Browse, search, and filter services by category
+    ✔ Favorites & History – Save services and track search history
+    ✔ In-App Chat – Secure real-time messaging between users
+    ✔ Dark & Light Mode – Personalized user experience
+    ✔ Push Notifications – Instant alerts for new messages
+    ✔ Rich Service Listings – Add images, videos, and locations
+
+    This project challenged me to integrate multiple technologies, optimize performance, and enhance user engagement. The result is a smooth, efficient, and user-friendly mobile app that simplifies service interactions.
+    `,
+    date: new Date("2025-1"),
+    skills: ["React Native"],
+    links: {
+      demo: "https://play.google.com/store/apps/details?id=com.ahmadsamman.sadiq",
+      repo: "https://sadiq.app/",
     },
   },
   {
