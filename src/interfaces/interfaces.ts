@@ -115,6 +115,7 @@ export type SKILLS =
   | "React Google Charts"
   | "Google Maps"
   | "Zustand"
+  | "i18next"
   | "NodeJS"
   | "Mongodb"
   | "ExpressJS"

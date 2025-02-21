@@ -136,6 +136,19 @@ import Sadiq2 from "/public/images/Projects/sadiq/sadiq2.jpg";
 import Sadiq3 from "/public/images/Projects/sadiq/sadiq3.jpg";
 import Sadiq4 from "/public/images/Projects/sadiq/sadiq4.jpg";
 import Sadiq5 from "/public/images/Projects/sadiq/sadiq5.jpg";
+//SD
+import SD from "/public/images/Projects/Student Dashboard/SD.jpg";
+import SD1 from "/public/images/Projects/Student Dashboard/SD1.jpg";
+import SD2 from "/public/images/Projects/Student Dashboard/SD2.jpg";
+import SD3 from "/public/images/Projects/Student Dashboard/SD3.jpg";
+import SD4 from "/public/images/Projects/Student Dashboard/SD4.jpg";
+import SD5 from "/public/images/Projects/Student Dashboard/SD5.jpg";
+import SD6 from "/public/images/Projects/Student Dashboard/SD6.jpg";
+import SD7 from "/public/images/Projects/Student Dashboard/SD7.jpg";
+import SD8 from "/public/images/Projects/Student Dashboard/SD8.jpg";
+import SD9 from "/public/images/Projects/Student Dashboard/SD9.jpg";
+import SD10 from "/public/images/Projects/Student Dashboard/SD10.jpg";
+import SD11 from "/public/images/Projects/Student Dashboard/SD11.jpg";
 export {
   MultiPr,
   MultiPr1,
@@ -194,4 +207,16 @@ export {
   Sadiq3,
   Sadiq4,
   Sadiq5,
+  SD,
+  SD1,
+  SD2,
+  SD3,
+  SD4,
+  SD5,
+  SD6,
+  SD7,
+  SD8,
+  SD9,
+  SD10,
+  SD11,
 };

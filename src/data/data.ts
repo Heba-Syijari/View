@@ -91,6 +91,18 @@ import {
   Sadiq3,
   Sadiq4,
   Sadiq5,
+  SD,
+  SD1,
+  SD2,
+  SD3,
+  SD4,
+  SD5,
+  SD6,
+  SD7,
+  SD8,
+  SD9,
+  SD10,
+  SD11,
 } from "@/assets";
 // let uuid = self.crypto.randomUUID();
 export const projectsData: IProjectData[] = [
@@ -219,6 +231,40 @@ export const projectsData: IProjectData[] = [
     links: {
       demo: "https://lyrify-5tpm.onrender.com",
       repo: "https://github.com/Heba-Syijari/Spotify",
+    },
+  },
+  {
+    id: 11,
+    images: [SD, SD1, SD2, SD3, SD4, SD5, SD6, SD7, SD8, SD9, SD10, SD11],
+    name: "Dashboard Student",
+    description: `Developed a fully functional student management dashboard using React.js, MUI, and TypeScript, integrating a RESTful CRUD API. The application supports bilingual functionality (English & Arabic) and includes pagination, sorting, and filtering features.
+    🛠 Tech Stack:
+    Frontend: React.js, TypeScript, MUI (Material-UI), TailwindCSS
+    State Management: React Query, React Hook Form
+    Routing: React Router v7
+    API Integration: Axios (RESTful API with Swagger)
+    Authentication: Token-based authentication (JWT stored in localStorage)
+    💡 Key Features:
+    ✔ Responsive UI: Built with MUI components and TailwindCSS for a sleek and adaptive design.
+    ✔ Bilingual Support: Switch between English & Arabic dynamically.
+    ✔ CRUD Operations: Add, edit, delete, and view student records using API integration.
+    ✔ Authentication: Secure login system with token storage.
+    ✔ Pagination & Filters: Seamless search, sort, and filter functionalities.
+    ✔ Error Handling & Notifications: Displays success/error messages and loading states.`,
+    date: new Date("2025-2"),
+    skills: [
+      "React JS",
+      "TypeScript",
+      "Vite",
+      "Material UI",
+      "TailwindCSS",
+      "React Query",
+      "Zod",
+      "i18next",
+    ],
+    links: {
+      demo: "https://dashboard-student-phi.vercel.app/",
+      repo: "https://github.com/Heba-Syijari/dashboard-student",
     },
   },
   {
