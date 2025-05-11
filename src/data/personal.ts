@@ -17,15 +17,15 @@ export const BtnList: IBtnList[] = [
     icon: "linkedin",
     newTab: true,
   },
-  // {
-  //     label: "Gitlab",
-  //     link: "https://gitlab.com/Heba-Sy/",
-  //     icon: "gitlab",
-  //     newTab: true,
-  // },
+  {
+    label: "Gitlab",
+    link: "https://gitlab.com/Heba-Sy/",
+    icon: "gitlab",
+    newTab: true,
+  },
   {
     label: "Resume",
-    link: "/Heba Syijari.pdf",
+    link: "/Heba_Syijari_CV.pdf",
     icon: "resume",
     newTab: true,
   },
